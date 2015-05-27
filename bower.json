@@ -1,0 +1,10 @@
+{
+  "name": "inputevent",
+  "version": "1.0.0",
+  "moduleType": [
+    "amd"
+  ],
+  "main": [
+    "inputevent.js"
+  ]
+}
