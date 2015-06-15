@@ -1,10 +1,10 @@
 {
-  "name": "inputevent",
+  "name": "jquery.inputevent",
   "version": "1.0.0",
   "moduleType": [
     "amd"
   ],
   "main": [
-    "inputevent.js"
+    "jquery.inputevent.js"
   ]
 }
